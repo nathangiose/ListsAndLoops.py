@@ -1,0 +1,16 @@
+As I was working through my end of module assignment,
+I got a bit confused with how to do loops with lists and dictionaries.
+
+So to make it easier, I started from scratch to give you a bit of insight
+to how I am structurally learning it again. Don't get me wrong though, I know
+how to do it- I just get confused here and there- an I am positive others do too!
+
+A heads up, with the Arithmetic Operator "=", it gets me off guard lol...
+You assign a variable to a list in the following way-
+Value = ["This", "Is", "A", "List"]
+And this is how my circuit memory put it in-
+Not_Value: ["This", "Is", "Not", "Going", "To", "Create", "A", "List"]
+Y'all feel me!?
+Keep this kinky errors in mind when you see an error that say,
+"The following operator is not assigned..." or something like that.
+
